@@ -1,60 +1,36 @@
- Solar System Project
+# Solar System Project
 
-This project simulates the solar system, allowing users to visualize the planets, their moons, and the orbits around the Sun. It aims to provide an interactive way to explore the solar system's celestial bodies while demonstrating basic orbital mechanics.
+This is an interactive **Solar System** project built using **HTML**, **CSS**, and **JavaScript**. The project provides an engaging overview of the solar system where each planet revolves around the Sun. By clicking on any planet, you can view detailed information and description about that planet.
 
-Features
-- Orbital Simulation Real-time simulation of planetary orbits around the Sun.
-- Planetary Models 3D visualizations of planets and their major moons (if applicable).
--User Interaction Users can zoom, rotate, and explore different parts of the solar system.
-- **Educational Content Provides basic information about each planet, moon, and other celestial bodies.
-  
- Technologies Used
-- Programming Language [e.g., Python, JavaScript]
-- Libraries/Frameworks**: 
-  - [e.g., Pygame, Three.js, Matplotlib, or others depending on your implementation]
-  - [Other dependencies such as NumPy, Plotly, etc.]
-  
- Installation
+## 🌟 Features
 
-To run this project locally, follow the steps below:
+- **Interactive Planet Animation:** Each planet revolves around the Sun in a circular orbit, simulating the real motion of the planets in the solar system.
+- **Planet Description:** Clicking on any planet displays relevant details such as its size, composition, distance from the Sun, and other interesting facts.
+- **Responsive Design:** The project is designed to be responsive and works across a variety of devices and screen sizes.
 
-1.Clone the Repository  
- 
-   git clone https://github.com/your-username/solar_system_project.git
+## 💻 Tech Stack
 
+- **HTML5**: Markup structure of the web page.
+- **CSS3**: Styling for the solar system layout and animations.
+- **JavaScript**: Adds interactivity by enabling planet descriptions to appear when clicked.
 
-2. Install Dependencies  
-   - For Python:
+## 🚀 Installation
 
-     pip install -r requirements.txt
-     
-   - For JavaScript/Node.js:
+To run the project locally, follow these steps:
 
-     npm install
-     
+1. Clone this repository:
 
-3 in Browser
-   Visit `http://localhost:3000` (or the address mentioned in your specific setup) to explore the simulation.
+   ```bash
+   git clone https://github.com/heetmehta18/solar_system_project.git
 
- Usage
+---
 
-- Use mouse controls to zoom in and out of the solar system.
-- Each planet is clickable for detailed information about its size, composition, and moons (if applicable).
+### 👨‍💻 **Contributing**
 
+Feel free to fork this repository and contribute! Whether you want to suggest a feature, fix a bug, or improve documentation, we appreciate your input. To contribute:
+1. Fork the repo.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes.
+4. Open a pull request with a detailed description of your changes.
 
-Contributions are welcome! Feel free to fork the repository and submit pull requests. To contribute:
-
-1. Fork this repository.
-2. Create a new branch (`git checkout -b feature-name`).
-3. Commit your changes (`git commit -am 'Add feature'`).
-4. Push to the branch (`git push origin feature-name`).
-5. Create a new Pull Request.
-
-License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-Acknowledgments
-
-- Credits: HEET MEHTA, URVAL KHENI,DHRUV PARMAR
- 
- for futhur queries on the  github repository visit the site heetmehta18.github.io .
+---
