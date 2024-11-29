@@ -1,4 +1,4 @@
-# Solar System Project
+# 🌟 Solar System Project 🌟
 
 This is an interactive **Solar System** project built using **HTML**, **CSS**, and **JavaScript**. The project provides an engaging overview of the solar system where each planet revolves around the Sun. By clicking on any planet, you can view detailed information and description about that planet.
 
