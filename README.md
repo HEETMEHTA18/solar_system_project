@@ -1,36 +1,45 @@
-# 🌟 Solar System Project 🌟
+# 🌌 Solar System Project
 
-This is an interactive **Solar System** project built using **HTML**, **CSS**, and **JavaScript**. The project provides an engaging overview of the solar system where each planet revolves around the Sun. By clicking on any planet, you can view detailed information and description about that planet.
+**Explore the wonders of our Solar System!**  
+This interactive web project allows users to discover detailed information about the planets in our Solar System. Simply click on a planet to learn more about its unique characteristics.
+
+---
 
 ## 🌟 Features
 
-- **Interactive Planet Animation:** Each planet revolves around the Sun in a circular orbit, simulating the real motion of the planets in the solar system.
-- **Planet Description:** Clicking on any planet displays relevant details such as its size, composition, distance from the Sun, and other interesting facts.
-- **Responsive Design:** The project is designed to be responsive and works across a variety of devices and screen sizes.
+- **Interactive Design:** Clickable planets for an engaging user experience.  
+- **Educational Content:** Detailed data about each planet, including size, distance from the Sun, and unique features.  
+- **Visually Stunning:** Beautifully designed using HTML, CSS, and JavaScript to capture the essence of space.  
+- **Responsive Interface:** Accessible on various devices, from desktops to mobile phones.  
+- **Lightweight & Fast:** Fully client-side implementation with no dependencies.  
 
-## 💻 Tech Stack
+---
 
-- **HTML5**: Markup structure of the web page.
-- **CSS3**: Styling for the solar system layout and animations.
-- **JavaScript**: Adds interactivity by enabling planet descriptions to appear when clicked.
+## 🛠️ Technologies Used
 
-## 🚀 Installation
+- **HTML5:** Structuring the Solar System layout.  
+- **CSS3:** Styling planets, backgrounds, and animations.  
+- **JavaScript:** Adding interactivity for exploring planetary details.  
 
-To run the project locally, follow these steps:
+---
 
-1. Clone this repository:
+## 🚀 How to Run the Project
 
+1. Clone the repository:
    ```bash
-   git clone https://github.com/heetmehta18/solar_system_project.git
+   git clone https://github.com/rahull0328/solar-system-project.git
 
 ---
 
-### 👨‍💻 **Contributing**
+## 🙌 Contributing
 
-Feel free to fork this repository and contribute! Whether you want to suggest a feature, fix a bug, or improve documentation, we appreciate your input. To contribute:
-1. Fork the repo.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes.
-4. Open a pull request with a detailed description of your changes.
+Feel free to contribute to this project by:
 
+- Improving planet details or adding new celestial bodies.
+- Enhancing the user interface or animations.
+- Suggesting new features like a search bar or 3D effects.
+  
 ---
+
+- Co-authored-by: Rahul Mehta <rmmehta2004@gmail.com>
+- Co-authored-by: Urval Kheni <urvalkhenii777@gmail.com>
