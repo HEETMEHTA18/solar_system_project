@@ -38,8 +38,3 @@ Feel free to contribute to this project by:
 - Improving planet details or adding new celestial bodies.
 - Enhancing the user interface or animations.
 - Suggesting new features like a search bar or 3D effects.
-  
----
-
-- Co-authored-by: Rahul Mehta <rmmehta2004@gmail.com>
-- Co-authored-by: Urval Kheni <urvalkhenii777@gmail.com>
