@@ -37,3 +37,8 @@ Feel free to contribute to this project by:
 
 - Improving planet details or adding new celestial bodies.
 - Enhancing the user interface or animations.
+
+---
+
+## 📷 Overview
+<img src="./assets/images/cover_photo.jpeg" alt="Project Image" />
